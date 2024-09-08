@@ -900,7 +900,7 @@ body.dark-theme {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 390px) {
   .container {
     margin-left: 1rem;
     margin-right: 1rem;
@@ -920,7 +920,7 @@ body.dark-theme {
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 360px) {
   .nav__menu {
     padding: 1.3rem 1.5rem;
   }
