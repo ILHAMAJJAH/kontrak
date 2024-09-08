@@ -900,7 +900,7 @@ body.dark-theme {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 360px) {
   .container {
     margin-left: 1rem;
     margin-right: 1rem;
